@@ -146,3 +146,7 @@ plot(density(datos_Very_Low_Confidence$Household.estimate..tonnes.year.), lwd=3,
 lines(density(datos_Low_Confidence$Household.estimate..tonnes.year.), lwd=3, main='Distribucion de X en distintos niveles de confianza', xlim = c(0,25000000),col='orange')
 lines(density(datos_High_Confidence$Household.estimate..tonnes.year.), lwd=3, main='Distribucion de X en distintos niveles de confianza', xlim = c(0,25000000),col='blue')
 lines(density(datos_Medium_Confidence$Household.estimate..tonnes.year.), lwd=3, main='Distribucion de X en distintos niveles de confianza', xlim = c(0,25000000),col='green')
+
+
+
+# hola
